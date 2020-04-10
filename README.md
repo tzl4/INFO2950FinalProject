@@ -1,1 +1,1 @@
-# INFO2300FinalProject
+# INFO 2950 Final Project
